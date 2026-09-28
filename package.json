@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/plottree",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Plot list/tree set operations for shell-friendly data wrangling.",
+  "bin": {
+    "plottree": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/plottree.git"
+  },
+  "homepage": "https://theworker02.github.io/plottree/",
+  "keywords": [
+    "plot",
+    "tree",
+    "list",
+    "cli",
+    "toolkit"
+  ]
+}
